@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pavel.
 - 👀 I’m interested in Frontend Development.
-- 🌱 I’m currently learning on course of HTML,CSS,JS.
+- 🌱 I’m currently learning on course of JS, Redux, React.
 - 💞️ I am looking for cooperation in promising interesting projects.
 - 📫 How to reach me? Telegram @Ward009.
 
